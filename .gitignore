@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# TyranoBuilder temp
+*.tmp
+*_preview.ks
+
+# Large media (use LFS if needed)
+*.wav
+*.psd
+*.ai

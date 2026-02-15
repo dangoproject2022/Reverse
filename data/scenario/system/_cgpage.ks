@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/bg_base.png"  ]
+[preload  storage="./data/fgimage/default/sora_1_bg.gif"  ]
+[preload  storage="./data/fgimage/default/sora_2_bg.gif"  ]
+[preload  storage="./data/fgimage/default/illust_prism.png"  ]
+[preload  storage="./data/fgimage/default/sora_design.jpg"  ]
+[preload  storage="./data/fgimage/default/atogaki.jpg"  ]
+[return]

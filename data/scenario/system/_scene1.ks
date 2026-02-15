@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/1_廃棄の順番を待つ.png"  ]
+[preload  storage="./data/bgimage/2_廃棄で自分の番.png"  ]
+[preload  storage="./data/bgimage/4_タイトル.png"  ]
+[preload  storage="./data/bgimage/bg_gray.jpg"  ]
+[return]
