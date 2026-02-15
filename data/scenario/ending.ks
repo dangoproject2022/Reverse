@@ -1,13 +1,13 @@
 ;=============================================
 ; Re:verse - 終章「Re:Birth」
-; シーン16: 丘の上 → 主題歌 → クレジット → エピローグ
+; シーン15: 丘の上 → 主題歌 → クレジット
 ;=============================================
 
 [cm]
 [clearfix]
 [tb_hide_message_window]
 
-;--- シーン16: 丘の上・朝焼け ---
+;--- シーン15: 丘の上・朝焼け ---
 [stopbgm time="2000"]
 [wait time="1000"]
 
@@ -24,71 +24,105 @@
 #
 数日後。[r]
 あの丘の上に、二つの影がある。[r]
-朝焼けが小麦畑を赤く染めている。[p]
+朝焼けが小麦畑を金色に染めている。[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
 #
-工場の煙突も、ロボットの銀色の体も、[r]
-すべてが朝の光に溶けている。[p]
+金色の髪と、青い髪が、朝風に揺れている。[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#瑠璃
-「……本当に、こんな私でいいの？」[p]
-[_tb_end_text]
-
-[tb_start_text mode=1]
-#緋奈
-「こんな私、って何よ。あなたはあなたでしょう」[p]
-[_tb_end_text]
-
-[tb_start_text mode=1]
-#瑠璃
-「家も、地位も、何もないのに」[p]
-[_tb_end_text]
-
-[tb_start_text mode=1]
-#緋奈
-「そんなもの、最初からいらなかった。[r]
-　私が必要だったのは、いつだって……あなただったのよ」[p]
+#少女
+「……本当に、よかったの？」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
 #
-瑠璃が目を丸くする。[r]
+「何が？」[p]
+[_tb_end_text]
+
+[tb_start_text mode=1]
+#少女
+「全部、手放して。百年続いた家を」[p]
+[_tb_end_text]
+
+[tb_start_text mode=1]
+#
+「手放したんじゃないわ。預けたの。[r]
+　この土地に住む人たちに」[p]
+[_tb_end_text]
+
+[tb_start_text mode=1]
+#少女
+「……それでも、あなたはもう領主の娘じゃない」[p]
+[_tb_end_text]
+
+[tb_start_text mode=1]
+#
+「ええ。ただの金髪の女よ。[r]
+　……あなたと同じ、何者でもない誰か」[p]
+[_tb_end_text]
+
+[tb_start_text mode=1]
+#
+彼女が目を丸くする。[r]
 そして、七年前と同じ、あの透き通った笑顔を見せた。[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#瑠璃
-「……不器用だなぁ、緋奈は。相変わらず」[p]
-[_tb_end_text]
-
-[tb_start_text mode=1]
-#緋奈
-「うるさいわよ」[p]
+#少女
+「……不器用だなぁ。相変わらず」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
 #
-二人で笑う。[r]
-朝の風が、赤い髪と青い髪を揺らす。[p]
+「……褒めてるの？」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#緋奈
+#少女
+「褒めてるよ。不器用でも前に進む人が、一番強いって。[r]
+　……昔から、そう思ってたから」[p]
+[_tb_end_text]
+
+[tb_start_text mode=1]
+#
 世界はまだ混沌としている。[r]
-ロボットの問題も、ガルディアとの緊張も、何一つ解決していない。[r]
+至る所で争いが絶えない。[r]
+テクノロジーは止まらず、古い秩序は崩れ続ける。[p]
+[_tb_end_text]
+
+[tb_start_text mode=1]
+#
 でも、もう怖くない。[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#緋奈
+#
 私は強くなくてはならない。[r]
-――いや、違う。[r]
+――いや、違う。[p]
+[_tb_end_text]
+
+[tb_start_text mode=1]
+#
 私は強い。[r]
 一人じゃないから。[p]
+[_tb_end_text]
+
+[tb_start_text mode=1]
+#
+「さあ、行こう」[p]
+[_tb_end_text]
+
+[tb_start_text mode=1]
+#少女
+「うん」[p]
+[_tb_end_text]
+
+[tb_start_text mode=1]
+#
+二人は丘を下り、朝焼けの世界へと歩き出す。[p]
 [_tb_end_text]
 
 ;=============================================
@@ -232,55 +266,12 @@
 [cm]
 
 ;=============================================
-; エピローグ ― シンギュラリティへのリンク
+; クレジットロール
 ;=============================================
 
 [tb_hide_message_window]
 [free layer=2 name="title_logo"]
 [free layer=2 name="song_title"]
-
-[mask time="3000" effect="fadeIn" color="0x000000"]
-[wait time="1000"]
-[bg storage="bg_black.png" time="0"]
-[wait time="1000"]
-[mask_off time="1000" effect="fadeOut"]
-[wait time="1000"]
-
-[delay speed="50"]
-
-[tb_show_message_window]
-
-[tb_start_text mode=4]
-――遠い場所で、一体のアンドロイドが落下していく。
-[_tb_end_text]
-[wait time="4000"]
-[cm]
-
-[tb_start_text mode=4]
-彼女の最後のログには、こう記録されていた。
-[_tb_end_text]
-[wait time="3500"]
-[cm]
-
-[tb_start_text mode=4]
-「違う世界へと、リンクしていく」
-[_tb_end_text]
-[wait time="4000"]
-[cm]
-
-[tb_start_text mode=4]
-赤い髪の少女と、青い髪の少女が歩き出した世界の、[r]
-その遥か先に。
-[_tb_end_text]
-[wait time="5000"]
-[cm]
-
-[tb_hide_message_window]
-[delay speed="30"]
-
-;=============================================
-; クレジットロール
-;=============================================
 
 [wait time="1000"]
 [bg storage="bg_credits.png" time="1000"]

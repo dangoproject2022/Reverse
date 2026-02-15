@@ -24,7 +24,7 @@
 [tb_show_message_window]
 
 [tb_start_text mode=1]
-#緋奈
+#
 私には、たったひとりの大切な友達がいる。[p]
 [_tb_end_text]
 
@@ -47,7 +47,7 @@
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#瑠璃
+#少女
 「……泣いてるの？」[p]
 [_tb_end_text]
 
@@ -58,12 +58,12 @@
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#緋奈
+#
 「……だ、誰？ ここは領主の庭園よ。勝手に入ってきては――」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#瑠璃
+#少女
 「ごめんなさい。でも、泣き声が聞こえたから」[p]
 [_tb_end_text]
 
@@ -73,27 +73,27 @@
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#瑠璃
+#少女
 「何があったの？」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#緋奈
+#
 「……試験に、落ちたの。三回も」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#瑠璃
+#少女
 「三回も挑戦したんだ。すごいね」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#緋奈
+#
 「すごくないわよ。三回も落ちたのよ？」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#瑠璃
+#少女
 「三回も諦めなかった。それはすごいことだよ」[p]
 [_tb_end_text]
 
@@ -104,8 +104,8 @@
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#緋奈
-それが、瑠璃との出会いだった。[r]
+#
+それが、あの子との出会いだった。[r]
 彼女がどこから来たのか、なぜ庭園に入れたのか。[r]
 当時の私は聞かなかった。聞く必要がなかった。[r]
 ただ、彼女の隣にいると、鎧を脱げた。[p]
@@ -133,33 +133,33 @@
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#瑠璃
-「この本の主人公、緋奈に似てるね」[p]
+#少女
+「この本の主人公、あなたに似てるね」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#緋奈
+#
 「どこが？ こんな勇敢じゃないわ」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#瑠璃
+#少女
 「勇敢なところじゃなくて、不器用なところ」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#緋奈
+#
 「……それ、褒めてないでしょ」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#瑠璃
+#少女
 「褒めてるよ。不器用でも前に進む人が、一番強いと思うから」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#緋奈
-瑠璃はいつもそうだった。[r]
+#
+彼女はいつもそうだった。[r]
 私が自分を責めるたび、違う角度から光を当ててくれた。[r]
 彼女がいたから、私は帝王学の試験にも四度目で合格できた。[r]
 彼女がいたから、私は領主の娘として、なんとか立っていられた。[p]
@@ -188,30 +188,30 @@
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#緋奈
-「小夜、瑠璃に会いたいのだけれど……取り次いでもらえる？」[p]
+#
+「あの子に会いたいのだけれど……取り次いでもらえる？」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#小夜
+#侍女
 「…………」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
 #
-小夜がまた、あの困った顔をする。[r]
+侍女がまた、あの困った顔をする。[r]
 眉を寄せ、視線を逸らし、唇を噛む。[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#小夜
+#侍女
 「……お伝え、しておきます」[p]
 [_tb_end_text]
 
 [tb_start_text mode=1]
-#緋奈
-いつもこうだ。小夜は何かを隠している。[r]
-瑠璃も、最近は手紙の返事が遅い。[r]
+#
+いつもこうだ。侍女は何かを隠している。[r]
+あの子も、最近は手紙の返事が遅い。[r]
 忙しいのだろうか。[r]
 ……それとも、私は避けられているのだろうか。[p]
 [_tb_end_text]
